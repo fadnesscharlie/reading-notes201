@@ -1,21 +1,21 @@
 # Class 02
 
-* [Home](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Class 01](https://fadnesscharlie.github.io/Reading-notes201/class-01) &nbsp;
-* [Class 02](https://fadnesscharlie.github.io/Reading-notes201/class-02) &nbsp;
-* [Daily Assignment 3](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 4](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 5](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 6](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 7](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 8](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 9](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 10](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 11](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 12](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 13](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 14](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 15](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
+* [Home](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Class 01](https://fadnesscharlie.github.io/reading-notes201/class-01) &nbsp;
+* [Class 02](https://fadnesscharlie.github.io/reading-notes201/class-02) &nbsp;
+* [Daily Assignment 3](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 4](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 5](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 6](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 7](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 8](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 9](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 10](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 11](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 12](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 13](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 14](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 15](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
 
 ## HTML
 
@@ -28,7 +28,7 @@ There are a total of **6 headings**. They range from `<h1></h1>`, all the way do
 <h3>Third headind</h3>
 <h4>Fourth headind</h4>
 <h5>Fifth headind</h5>
-<h6>Sixth headind</h6></br>
+<h6>Sixth headind</h6>
 
 As you can see, the last heading is very small, so you have a wide range of sizes. 
 
@@ -78,7 +78,7 @@ With **citations**, we use `<cite></cite>`, for times when you want to <cite>use
 
 For **definitions**, we want to use the `<dfn></dfn>`. This is important for new software that can show definitions as you read something.
 
-<p>En Example of this would be. A <dfn>black hole<dfn> is a region of space hich nothing, not even light, can escape. Here we use black hole as refernce, and have the definiton behind it.</p>
+<p>En Example of this would be. A <dfn>black hole</dfn> is a region of space hich nothing, not even light, can escape. Here we use black hole as refernce, and have the definiton behind it.</p>
 
 ## Address/Author Details
 
@@ -102,11 +102,10 @@ If you notice, the address tag makes everything inside italic.
 
 ## Changes to Content
 
-Here we can cross something out, and add something new using the `<ins></ins>` and `<del></del>` tags. 
+Here we can cross something out, and add something new using the `<ins></ins>` and `<del></del>` tags.  
+We can take out <del>Pizza</del> and instead add <ins>Chocolate Cake</ins>.  
 
-We can take out <del>Pizza</del> and instead add <ins>Chocolate Cake</ins>.
-
-We can just cross something out that just is not as relevent anymore with the `<s></s>` tags
+We can just cross something out that just is not as relevent anymore with the `<s></s>` tags  
 
 Lets say we just dont want sweets anymore, lets just remove <s>Chocolate Cake</s>.
 
