@@ -22,6 +22,10 @@
 * [Daily Assignment 14](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
 * [Daily Assignment 15](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
 
+## 102 Reading Notes
+
+* [Class 102](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
+
 <img src="https://github.com/fadnesscharlie/Reading-notes/blob/main/ProfilePic.jpg?raw=true" width="400" height="500">
 
 Thank you for reading this webpage! I look forward to working with you in the future!  
