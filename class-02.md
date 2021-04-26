@@ -78,7 +78,7 @@ With **citations**, we use `<cite></cite>`, for times when you want to <cite>use
 
 For **definitions**, we want to use the `<dfn></dfn>`. This is important for new software that can show definitions as you read something.
 
-<p>En Example of this would be. A <dfn>black hole<dfn> is a region of space hich nothing, not even light, can escape. Here we use black hole as refernce, and have the definiton behind it.</p>
+<p>En Example of this would be. A <dfn>black hole</dfn> is a region of space hich nothing, not even light, can escape. Here we use black hole as refernce, and have the definiton behind it.</p>
 
 ## Address/Author Details
 
