@@ -5,22 +5,22 @@
 
 ## Table of Contents
 
-* [Home](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Class 01](https://fadnesscharlie.github.io/Reading-notes201/class-01) &nbsp;
-* [Daily Assignment 2](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 3](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 4](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 5](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 6](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 7](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 8](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 9](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 10](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 11](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 12](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 13](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 14](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
-* [Daily Assignment 15](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
+* [Home](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Class 01](https://fadnesscharlie.github.io/reading-notes201/class-01) &nbsp;
+* [Class 02](https://fadnesscharlie.github.io/reading-notes201/class-02) &nbsp;
+* [Class 03](https://fadnesscharlie.github.io/reading-notes201class-03/) &nbsp;
+* [Daily Assignment 4](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 5](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 6](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 7](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 8](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 9](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 10](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 11](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 12](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 13](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 14](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
+* [Daily Assignment 15](https://fadnesscharlie.github.io/reading-notes201/) &nbsp;
 
 ## 102 Reading Notes
 
